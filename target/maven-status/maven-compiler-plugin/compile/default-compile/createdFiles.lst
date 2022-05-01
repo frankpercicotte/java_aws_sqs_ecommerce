@@ -1,0 +1,6 @@
+br/com/sqs_ecommerce/services/configAws$1.class
+br/com/sqs_ecommerce/App.class
+br/com/sqs_ecommerce/dto/InfMessage.class
+br/com/sqs_ecommerce/services/SQSService.class
+br/com/sqs_ecommerce/services/configAws$1$1.class
+br/com/sqs_ecommerce/services/configAws.class
