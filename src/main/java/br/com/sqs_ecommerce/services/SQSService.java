@@ -25,7 +25,7 @@ public class SQSService {
 
         GetQueueUrlResponse createResult = sqsClient.getQueueUrl(request);
         
-        // TODO - refatorar em outra classe esta regra de negócio
+        // TODO - refatorar em outra classe esta regra de negócio...
         List<Message> messages = receiveMessages(sqsClient, createResult.queueUrl());      
         for (Message mess : messages) {            
             
