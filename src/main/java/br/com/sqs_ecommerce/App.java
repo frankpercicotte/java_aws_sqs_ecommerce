@@ -1,6 +1,6 @@
 package br.com.sqs_ecommerce;
 
-import br.com.sqs_ecommerce.services.SQSService;
+import br.com.sqs_ecommerce.services.HandleList;
 
 public class App {
     public static void main(String[] args) throws InterruptedException {
@@ -10,7 +10,7 @@ public class App {
         // TODO - fase 2, criar logica de colocar novos pedidos.
 
         while (true) {
-            SQSService.messageReader();
+            HandleList.messageReader();
         }
     }
 }

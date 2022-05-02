@@ -1,4 +1,5 @@
 /Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/dto/InfMessage.java
 /Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/App.java
-/Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/services/configAws.java
 /Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/services/SQSService.java
+/Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/services/HandleList.java
+/Users/franklin.percicotte/Documents/Gama/workspace_fase2_tests/java_aws_sqs_ecommerce/src/main/java/br/com/sqs_ecommerce/services/ConfigAws.java
